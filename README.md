@@ -6,7 +6,7 @@ The goal of this project is to optimize an algorithm by reducing cache misses.
 
 ---
 
-## 🇬🇧 English version
+##  English version
 
 ### Project: Optimization of the Edit Distance Algorithm
 
@@ -54,7 +54,7 @@ Despite added complexity, cache-aware and cache-oblivious approaches show substa
 
 ---
 
-## 🇫🇷 Version française
+## Version française
 
 ### Projet : Optimisation de l'algorithme de distance d'édition
 
